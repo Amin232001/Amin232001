@@ -1,5 +1,9 @@
-### Hi there 👋
+### Hi there my name is Mohammed Aminul Mustafa👋
+I'm currently looking to get into the field of web development.
 
+You will see my profile as of now has two repositories known as **"byb_project"** and **"Amin232001"**.
+
+The byb_project repository is about a python program printing out a msg which has then been chnaged by a commit. The Amin232001 repository is the one your currently viewing.
 <!--
 **Amin232001/Amin232001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
